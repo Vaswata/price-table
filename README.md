@@ -1,6 +1,6 @@
 # Price Table
 
-## [View](https://photo-site-b13ad3.netlify.app) this site.
+## [View](https://price-table-c219f2.netlify.app/) this site.
 
 ![Design preview for the Price Table](./images/live-screenshot.png)
 
